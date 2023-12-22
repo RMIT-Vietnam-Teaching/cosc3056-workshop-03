@@ -3,6 +3,8 @@ package prereq;
 import java.util.ArrayList;
 
 public class GoodsDatabase {
+   
+   int i;
 
    private ArrayList<Listing> goods;
 
